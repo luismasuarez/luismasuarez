@@ -1,4 +1,4 @@
-# Hola, soy [Luis Manuel] 👋
+# Hola, soy Luis Manuel 👋
 
 Soy un desarrollador con **3 años de experiencia** en **JavaScript** y **TypeScript**. Me especializo en el desarrollo de aplicaciones web modernas y escalables, y tengo experiencia trabajando en proyectos diversos, desde aplicaciones médicas hasta soluciones de transporte y educación.
 
@@ -44,7 +44,7 @@ He trabajado en una variedad de proyectos, incluyendo:
 
 ## 📫 Contacto
 
-- **LinkedIn**: [Luisma Suárez]([www.linkedin.com/in/luisma-suárez-1027a5261](https://www.linkedin.com/in/luisma-su%C3%A1rez-1027a5261))
+- **LinkedIn**: [Luisma Suárez](https://www.linkedin.com/in/luisma-su%C3%A1rez-1027a5261)
 - **Correo Electrónico**: [Luisma Suárez](mailto:luisma.suarezzz@gmail.com)
 
 ¡Estoy siempre buscando nuevas oportunidades y desafíos! No dudes en ponerte en contacto si quieres charlar sobre desarrollo web o colaboraciones.
