@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy [Luis Manuel] 👋
 
 Soy un desarrollador con **3 años de experiencia** en **JavaScript** y **TypeScript**. Me especializo en el desarrollo de aplicaciones web modernas y escalables, y tengo experiencia trabajando en proyectos diversos, desde aplicaciones médicas hasta soluciones de transporte y educación.
 
@@ -44,8 +44,8 @@ He trabajado en una variedad de proyectos, incluyendo:
 
 ## 📫 Contacto
 
-- **LinkedIn**: [Tu LinkedIn](enlace-a-tu-linkedin)
-- **Correo Electrónico**: [tu.email@example.com](mailto:tu.email@example.com)
+- **LinkedIn**: [Luisma Suárez](www.linkedin.com/in/luisma-suárez-1027a5261)
+- **Correo Electrónico**: [Luisma Suárez](mailto:luisma.suarezzz@gmail.com)
 
 ¡Estoy siempre buscando nuevas oportunidades y desafíos! No dudes en ponerte en contacto si quieres charlar sobre desarrollo web o colaboraciones.
 
