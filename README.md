@@ -44,7 +44,7 @@ He trabajado en una variedad de proyectos, incluyendo:
 
 ## 📫 Contacto
 
-- **LinkedIn**: [Luisma Suárez](www.linkedin.com/in/luisma-suárez-1027a5261)
+- **LinkedIn**: [Luisma Suárez]([www.linkedin.com/in/luisma-suárez-1027a5261](https://www.linkedin.com/in/luisma-su%C3%A1rez-1027a5261)
 - **Correo Electrónico**: [Luisma Suárez](mailto:luisma.suarezzz@gmail.com)
 
 ¡Estoy siempre buscando nuevas oportunidades y desafíos! No dudes en ponerte en contacto si quieres charlar sobre desarrollo web o colaboraciones.
