@@ -10,6 +10,9 @@ Me gusta convertir ideas en software usable, mantenible y listo para crecer.
   <a href="https://github.com/luismasuarez?tab=followers">
     <img src="https://img.shields.io/github/followers/luismasuarez?label=Seguidores&style=flat&color=0f766e" alt="Seguidores" />
   </a>
+  <a href="https://github.com/luismasuarez?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos%20publicos-ver%20repos-0f172a?style=flat" alt="Repos publicos" />
+  </a>
 </p>
 
 ## En que trabajo
@@ -32,20 +35,14 @@ Me gusta convertir ideas en software usable, mantenible y listo para crecer.
 - [`sky-monorepo`](https://github.com/luismasuarez/sky-monorepo): base para microservicios y paquetes compartidos.
 - [`dokkap-app`](https://github.com/luismasuarez/dokkap-app): app con Next.js y Prisma enfocada en iteracion rapida de producto.
 
-## Actividad y estadisticas
+## Actividad
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luismasuarez&show_icons=true&hide_border=true&title_color=0f172a&icon_color=0e7490&text_color=334155&bg_color=ffffff" alt="Estadisticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismasuarez&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="Lenguajes mas usados" />
+  <img src="https://ghchart.rshah.org/0e7490/luismasuarez" alt="Heatmap de contribuciones" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=luismasuarez&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0E7490&fire=0E7490&currStreakLabel=0F172A&sideNums=334155&currStreakNum=0F172A&sideLabels=334155&dates=64748B&background=FFFFFF" alt="Racha de contribuciones" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luismasuarez&bg_color=ffffff&color=334155&line=0e7490&point=0f766e&area=true&hide_border=true" alt="Grafico de actividad" />
-</p>
+- Historial completo: [Contribuciones](https://github.com/luismasuarez?tab=overview&from=2026-01-01&to=2026-12-31)
+- Repositorios: [Ver todos mis repos](https://github.com/luismasuarez?tab=repositories)
 
 ## Contacto
 
