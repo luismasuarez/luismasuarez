@@ -1,54 +1,47 @@
-# Hola, soy Luis Manuel 👋
+# Hola, soy Luis Manuel Suarez
 
-Soy un desarrollador con **3 años de experiencia** en **JavaScript** y **TypeScript**. Me especializo en el desarrollo de aplicaciones web modernas y escalables, y tengo experiencia trabajando en proyectos diversos, desde aplicaciones médicas hasta soluciones de transporte y educación.
+Construyo productos SaaS de extremo a extremo: backend, frontend, mobile y SDKs listos para integrarse.
 
-## 🚀 Experiencia Técnica
+Me enfoco en transformar reglas de negocio en plataformas mantenibles, con contratos claros, buenas practicas de desarrollo y experiencia de producto consistente.
 
-- **Lenguajes**: 
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black) 
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-  
-- **Frameworks y Librerías**:
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
-  - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
-  - ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=mui&logoColor=white) 
-  - ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcn&logoColor=white) 
-  - ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+## En que me especializo
 
-- **Base de Datos**:
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- Diseno y desarrollo de APIs escalables con `NestJS`, `Prisma` y `PostgreSQL`.
+- Aplicaciones web con `React` y `Next.js`, priorizando DX, rendimiento y mantenibilidad.
+- Apps mobile con `Expo` y `React Native` conectadas a ecosistemas SaaS.
+- Arquitectura de monorepos (`pnpm workspaces`, `Turborepo`) y librerias compartidas.
+- Estrategias de integracion basadas en `OpenAPI` + SDKs (`core`, `react`, `expo`).
 
-- **Testing**:
-  - ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+## Stack principal
 
-- **Desarrollo de Módulos**:
-  - Creación de módulos npm para soluciones personalizadas
+- Backend: `TypeScript`, `Node.js`, `NestJS`, `Prisma`, `PostgreSQL`, `JWT/Auth`.
+- Frontend: `React`, `Next.js`, `Tailwind CSS`, `TanStack Query`, `Radix/shadcn`.
+- Mobile: `Expo`, `React Native`, `expo-router`.
+- Plataforma y DevEx: `pnpm`, `Turborepo`, `Docker`, `OpenAPI`, `Changesets`.
+- Testing y calidad: `Vitest`, `typecheck`, linting y flujos de release por paquetes.
 
-- **Metodologías**:
-  - ![Scrum](https://img.shields.io/badge/Scrum-003E54?style=flat&logo=scrum&logoColor=white)
+## Proyectos destacados
 
-## 🌟 Proyectos Destacados
+- [`portal_saas`](https://github.com/luismasuarez/portal_saas): plataforma SaaS en monorepo con backend NestJS, panel admin React y app mobile Expo en el mismo ecosistema.
+- [`portal_cloud`](https://github.com/luismasuarez/portal_cloud): arquitectura orientada a contratos con OpenAPI y SDKs multiplataforma (`@portal/sdk`, `sdk-react`, `sdk-expo`).
+- [`progesman`](https://github.com/NEXOLIFE-LLC/progesman): plataforma de gestion en `Next.js` con `Prisma`, autenticacion y modulos de operacion de negocio.
+- [`sky-monorepo`](https://github.com/luismasuarez/sky-monorepo): base para microservicios y servicios backend reutilizables con enfoque de escalabilidad.
+- [`dokkap-app`](https://github.com/luismasuarez/dokkap-app): aplicacion con `Next.js`, `Prisma` y patrones modernos de estado y UI.
 
-He trabajado en una variedad de proyectos, incluyendo:
-- **Aplicaciones Médicas**: Soluciones para mejorar la eficiencia y accesibilidad en el sector de la salud.
-- **Soluciones de Transporte**: Sistemas de gestión para optimizar el transporte y la logística.
-- **Proyectos Educativos**: Plataformas para facilitar el aprendizaje y la gestión de recursos educativos.
+## Como trabajo
 
-## 🛠️ Habilidades y Herramientas
+- Pienso en producto, no solo en features aisladas.
+- Defino contratos primero cuando el dominio lo requiere.
+- Priorizo claridad en estructura, convenciones y automatizacion del repo.
+- Busco entregas que puedan evolucionar sin reescrituras dolorosas.
 
-- **Desarrollo Frontend**: Interfaces de usuario responsivas y accesibles con React, TailwindCSS y Material UI.
-- **Desarrollo Backend**: APIs y servicios con Express y Node.js.
-- **Testing y Calidad**: Garantía de calidad del código con Cypress.
-- **Gestión de Proyectos**: Experiencia en equipos ágiles con Scrum.
+## Actualmente
 
-## 📫 Contacto
+Estoy enfocado en fortalecer patrones de arquitectura SaaS, SDKs para integraciones y experiencias web/mobile conectadas al mismo backend.
 
-- **LinkedIn**: [Luisma Suárez](https://www.linkedin.com/in/luisma-su%C3%A1rez-1027a5261)
-- **Correo Electrónico**: [Luisma Suárez](mailto:luisma.suarezzz@gmail.com)
+## Contacto
 
-¡Estoy siempre buscando nuevas oportunidades y desafíos! No dudes en ponerte en contacto si quieres charlar sobre desarrollo web o colaboraciones.
+- LinkedIn: [Luisma Suarez](https://www.linkedin.com/in/luisma-su%C3%A1rez-1027a5261)
+- Correo: [luisma.suarezzz@gmail.com](mailto:luisma.suarezzz@gmail.com)
 
----
-
-*¡Gracias por visitar mi perfil!*
+Si estas construyendo un producto y necesitas convertir complejidad tecnica en una plataforma clara y escalable, conversemos.
