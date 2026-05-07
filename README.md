@@ -1,47 +1,38 @@
-# Hola, soy Luis Manuel Suarez
+# Hola, soy Luisma 👋
 
-Construyo productos SaaS de extremo a extremo: backend, frontend, mobile y SDKs listos para integrarse.
+Soy desarrollador de producto. Me gusta tomar ideas que vienen en una nota de voz, una reunion o una libreta, y convertirlas en algo que la gente realmente pueda usar.
 
-Me enfoco en transformar reglas de negocio en plataformas mantenibles, con contratos claros, buenas practicas de desarrollo y experiencia de producto consistente.
+Trabajo sobre todo en SaaS: backend, frontend y mobile, cuidando que todo quede conectado y mantenible.
 
-## En que me especializo
+## Lo que hago en el dia a dia
 
-- Diseno y desarrollo de APIs escalables con `NestJS`, `Prisma` y `PostgreSQL`.
-- Aplicaciones web con `React` y `Next.js`, priorizando DX, rendimiento y mantenibilidad.
-- Apps mobile con `Expo` y `React Native` conectadas a ecosistemas SaaS.
-- Arquitectura de monorepos (`pnpm workspaces`, `Turborepo`) y librerias compartidas.
-- Estrategias de integracion basadas en `OpenAPI` + SDKs (`core`, `react`, `expo`).
+- Construyo APIs con `NestJS`, `Prisma` y `PostgreSQL`.
+- Desarrollo interfaces con `React` y `Next.js` sin perder foco en experiencia de uso.
+- Trabajo apps con `Expo` y `React Native` cuando el producto necesita movilidad real.
+- Organizo monorepos con `pnpm` y `Turborepo` para que escalar no sea un dolor.
+- Armo SDKs y contratos (`OpenAPI`) para que integrar servicios sea simple.
 
-## Stack principal
+## Algunas tecnologias con las que mas trabajo
 
-- Backend: `TypeScript`, `Node.js`, `NestJS`, `Prisma`, `PostgreSQL`, `JWT/Auth`.
-- Frontend: `React`, `Next.js`, `Tailwind CSS`, `TanStack Query`, `Radix/shadcn`.
-- Mobile: `Expo`, `React Native`, `expo-router`.
-- Plataforma y DevEx: `pnpm`, `Turborepo`, `Docker`, `OpenAPI`, `Changesets`.
-- Testing y calidad: `Vitest`, `typecheck`, linting y flujos de release por paquetes.
+`TypeScript` `Node.js` `NestJS` `Prisma` `PostgreSQL` `React` `Next.js` `Expo` `React Native` `Tailwind CSS` `TanStack Query` `Docker`
 
-## Proyectos destacados
+## Proyectos que representan bien mi trabajo
 
-- [`portal_saas`](https://github.com/luismasuarez/portal_saas): plataforma SaaS en monorepo con backend NestJS, panel admin React y app mobile Expo en el mismo ecosistema.
-- [`portal_cloud`](https://github.com/luismasuarez/portal_cloud): arquitectura orientada a contratos con OpenAPI y SDKs multiplataforma (`@portal/sdk`, `sdk-react`, `sdk-expo`).
-- [`progesman`](https://github.com/NEXOLIFE-LLC/progesman): plataforma de gestion en `Next.js` con `Prisma`, autenticacion y modulos de operacion de negocio.
-- [`sky-monorepo`](https://github.com/luismasuarez/sky-monorepo): base para microservicios y servicios backend reutilizables con enfoque de escalabilidad.
-- [`dokkap-app`](https://github.com/luismasuarez/dokkap-app): aplicacion con `Next.js`, `Prisma` y patrones modernos de estado y UI.
+- [`portal_saas`](https://github.com/luismasuarez/portal_saas): un ecosistema SaaS completo (API, admin y mobile) en el mismo monorepo.
+- [`portal_cloud`](https://github.com/luismasuarez/portal_cloud): backend con contratos OpenAPI y SDKs para web y mobile.
+- [`progesman`](https://github.com/NEXOLIFE-LLC/progesman): plataforma de gestion en Next.js con autenticacion, modulos operativos y base de datos relacional.
+- [`sky-monorepo`](https://github.com/luismasuarez/sky-monorepo): base para trabajar microservicios y paquetes compartidos con estructura clara.
+- [`dokkap-app`](https://github.com/luismasuarez/dokkap-app): app con Next.js y Prisma enfocada en flujo de producto y velocidad de iteracion.
 
-## Como trabajo
+## Como me gusta trabajar
 
-- Pienso en producto, no solo en features aisladas.
-- Defino contratos primero cuando el dominio lo requiere.
-- Priorizo claridad en estructura, convenciones y automatizacion del repo.
-- Busco entregas que puedan evolucionar sin reescrituras dolorosas.
+Me importan tres cosas: claridad tecnica, velocidad de entrega y que el producto no se rompa al crecer.
 
-## Actualmente
-
-Estoy enfocado en fortalecer patrones de arquitectura SaaS, SDKs para integraciones y experiencias web/mobile conectadas al mismo backend.
+No me interesa escribir codigo "bonito" que nadie puede mantener. Prefiero soluciones simples, bien pensadas, que resuelvan problemas reales.
 
 ## Contacto
 
 - LinkedIn: [Luisma Suarez](https://www.linkedin.com/in/luisma-su%C3%A1rez-1027a5261)
 - Correo: [luisma.suarezzz@gmail.com](mailto:luisma.suarezzz@gmail.com)
 
-Si estas construyendo un producto y necesitas convertir complejidad tecnica en una plataforma clara y escalable, conversemos.
+Si tienes un producto en construccion (o uno que ya existe pero necesita orden y evolucion), encantado de conversar.
